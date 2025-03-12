@@ -1,0 +1,15 @@
+D:\asp\oop projects\RPSChallenge\RPSChallenge\bin\Debug\net6.0\RPSChallenge.exe
+D:\asp\oop projects\RPSChallenge\RPSChallenge\bin\Debug\net6.0\RPSChallenge.deps.json
+D:\asp\oop projects\RPSChallenge\RPSChallenge\bin\Debug\net6.0\RPSChallenge.runtimeconfig.json
+D:\asp\oop projects\RPSChallenge\RPSChallenge\bin\Debug\net6.0\RPSChallenge.dll
+D:\asp\oop projects\RPSChallenge\RPSChallenge\bin\Debug\net6.0\RPSChallenge.pdb
+D:\asp\oop projects\RPSChallenge\RPSChallenge\obj\Debug\net6.0\RPSChallenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp\oop projects\RPSChallenge\RPSChallenge\obj\Debug\net6.0\RPSChallenge.AssemblyInfoInputs.cache
+D:\asp\oop projects\RPSChallenge\RPSChallenge\obj\Debug\net6.0\RPSChallenge.AssemblyInfo.cs
+D:\asp\oop projects\RPSChallenge\RPSChallenge\obj\Debug\net6.0\RPSChallenge.csproj.CoreCompileInputs.cache
+D:\asp\oop projects\RPSChallenge\RPSChallenge\obj\Debug\net6.0\RPSChallenge.sourcelink.json
+D:\asp\oop projects\RPSChallenge\RPSChallenge\obj\Debug\net6.0\RPSChallenge.dll
+D:\asp\oop projects\RPSChallenge\RPSChallenge\obj\Debug\net6.0\refint\RPSChallenge.dll
+D:\asp\oop projects\RPSChallenge\RPSChallenge\obj\Debug\net6.0\RPSChallenge.pdb
+D:\asp\oop projects\RPSChallenge\RPSChallenge\obj\Debug\net6.0\RPSChallenge.genruntimeconfig.cache
+D:\asp\oop projects\RPSChallenge\RPSChallenge\obj\Debug\net6.0\ref\RPSChallenge.dll
